@@ -1,13 +1,18 @@
 ---
-Title: Avalanche
+title: Overview
 id: avalanche
 ---
 
 # Avalanche RPC
 
-Avalanche is an **ecosystem** made up of three core Blockchains optimized for specific tasks within the network. The **Exchange Chain** (X-Chain), **Platform Chain** (P-Chain), and **Contract Chain** (C-Chain).
+Avalanche is an **ecosystem** and platform for building dApps and enterprise blockchain deployments.
+It has been designed to meet the needs of global finance with a focus on near-instant transaction finality.
 
-The **C-Chain** is available via Avalanche RPC.
+In order to achieve this, Avalanche has been designed from the ground up with a modular architecture and an innovative **Snowball consensus protocol** devised at Cornell University
+
+This approach  pioneering consensus protocol to addressing the scalability trilemma  made up of three core Blockchains optimized for specific tasks within the network. The **Exchange Chain** (X-Chain), **Platform Chain** (P-Chain), and **Contract Chain** (C-Chain).
+
+The **C-Chain** allows for the creation of smart contracts using the 
 
 Avalanche was built specifically with Defi dApps and protocols in mind, focusing on security, low latency & high throughput. Avalanche uses a novel consensus protocol by utilizing two different consensus mechanisms. The consensus protocol ensures a high degree of security and fast finality even with multiple chains running simultaneously.
 
